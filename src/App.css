@@ -1,0 +1,7 @@
+body{margin:0;font-family:system-ui,sans-serif;background:#f3f4f6}
+.box{max-width:420px;margin:40px auto;background:#fff;padding:20px;border-radius:12px;box-shadow:0 2px 8px #0002}
+.row{display:flex;gap:8px;margin-bottom:12px}.row input,.row select{flex:1;padding:8px}
+.sum{display:flex;justify-content:space-between;margin-bottom:12px}.g{color:#16a34a}.r{color:#dc2626}
+button{padding:8px 12px;border:0;border-radius:6px;background:#4f46e5;color:#fff;cursor:pointer;margin-left:8px}
+ul{list-style:none;padding:0}li{display:flex;justify-content:space-between;padding:8px 0;border-bottom:1px solid #eee}
+li.income span:last-child{color:#16a34a}li.expense span:last-child{color:#dc2626}
